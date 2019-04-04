@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title> datos personales </title>
+<meta charset="UTF-8">
+</head>
+<body>
+<H1>indice</H1>
+<table	 BORDER=4 estyle="width:600px">
+<h1>datos personales</h1>
+<th>indice</th>
+<tr>
+<td>numero de cedula:</td></tr>
+<td>fecha de nacimiento:</td></tr>
+<td>telefono movil</td></tr>
+<td>direccion </td></tr>
+<td>ciudad</td></tr>
+<td>estado civil</td></tr>
+<td>e-mail</td></tr>
+</tr>
+</table>
+<button>inicio</button>
+</body>
+</html>
